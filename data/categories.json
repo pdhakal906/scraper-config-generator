@@ -1,0 +1,8 @@
+{
+  "categories": [
+    "http://192.168.1.80:5500/national.html",
+    "http://192.168.1.80:5500/politics.html",
+    "http://192.168.1.80:5500/sports.html",
+    "http://192.168.1.80:5500/entertainment.html"
+  ]
+}

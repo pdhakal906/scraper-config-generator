@@ -1,0 +1,32 @@
+{
+  "urls": {
+    "http://192.168.1.80:5500/national.html": [
+      "newsarticles/infrastructure-project.html",
+      "newsarticles/education-reform.html",
+      "newsarticles/healthcare-overhaul.html",
+      "newsarticles/climate-policy.html",
+      "newsarticles/us-china.html"
+    ],
+    "http://192.168.1.80:5500/politics.html": [
+      "newsarticles/european-union.html",
+      "newsarticles/asia-pacific-summit.html",
+      "newsarticles/conclave.html",
+      "newsarticles/romaniapm-resigns.html",
+      "newsarticles/india-stop-water.html"
+    ],
+    "http://192.168.1.80:5500/sports.html": [
+      "newsarticles/world-cup-2026.html",
+      "newsarticles/barca-inter.html",
+      "newsarticles/trumps-world-cup-task-force.html",
+      "newsarticles/kentucky-derby-winner-sovereignty.html",
+      "newsarticles/dodgers-to-place-teoscar-hernandez-on-injured-list.html"
+    ],
+    "http://192.168.1.80:5500/entertainment.html": [
+      "newsarticles/gta-six.html",
+      "newsarticles/severance-creator-says.html",
+      "newsarticles/bjork-performs-benefit-concert.html",
+      "newsarticles/sam-mendes-admits-idea.html",
+      "newsarticles/taylor-swift-spends-evening-editing-spreadsheet.html"
+    ]
+  }
+}
